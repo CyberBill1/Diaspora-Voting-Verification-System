@@ -1,6 +1,6 @@
 # Diaspora Voting Verification System!
 
- This Repo shows the Python Script for Diaspora Voting Verification Sysyem.
+ This Repo shows Python Script for Diaspora Voting Verification Sysyem.
  The prospective voter is required to enter their full name as it appears on their passport.
  They are also required to enter their passport serial number.
  The Program first matches the provided name and passport serial number to the data available in the system's database.
