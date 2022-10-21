@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# Diaspora Voting Verification System!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+                          This Repo shows the Python Script for Diaspora Voting Verification Sysyem.
+                          The prospective voter is required to enter their <strong>full name</strong> as it appears on their passport.
+                          They are also required to enter their <b>passport serial number</b>.
+                          The Program first matches the provided name and passport serial number to the data available in the system's database.
+                          If the provided data is correct then the program goes ahead to check the age of the passport carrier as it is contained in its details.
+                          If the age is up to 18 years, they are allowed to vote else they are denied such access.
